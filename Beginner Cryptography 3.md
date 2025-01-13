@@ -1,6 +1,6 @@
 
 
-### 15 Key Points
+###  Key Points
 
 #### 1. **Learning Objectives**
    - The primary goals of the lecture include comparing modes of operations for symmetric algorithms (O1), investigating and overcoming issues like the "Penguin Problem" (O2), and explaining the purpose of an Initialization Vector (IV) (O3).
